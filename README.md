@@ -1,1 +1,1 @@
-# staticapp
+wp-assignment
